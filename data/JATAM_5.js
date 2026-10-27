@@ -1,1 +1,0 @@
-var json_JATAM_5 = {"type":"FeatureCollection","name":"JATAM_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"FID":"true","Name":"JATAM (Jamaah Tani Muhammadiyah)","Latitude":-7.41054,"Longitude":109.26894},"geometry":{"type":"Point","coordinates":[109.268941,-7.41054]}}]}
